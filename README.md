@@ -1,4 +1,4 @@
-## 看我七十二变，Keras Image Data Augmentation 各参数详细解释
+## 图片数据集太少？看我七十二变，Keras Image Data Augmentation 各参数详解
 
 **图像深度学习任务中，面对小数据集，我们往往需要利用Image Data Augmentation图像增广技术来扩充我们的数据集，而keras的内置ImageDataGenerator很好地帮我们实现图像增广。但是面对ImageDataGenerator中众多的参数，每个参数所得到的效果分别是怎样的呢？本文针对Keras中ImageDataGenerator的各项参数数值的效果进行了详细解释，为各位深度学习研究者们提供一个参考。**
 
